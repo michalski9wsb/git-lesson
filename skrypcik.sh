@@ -1,2 +1,0 @@
-!#ddfdfa/bash
-ech działam
