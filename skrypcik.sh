@@ -1,2 +1,2 @@
-!#/bash
+!#ddfdfa/bash
 ech działam
